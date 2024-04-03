@@ -1,0 +1,35 @@
+C:\Users\vitor\Desktop\Final1\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe.config
+C:\Users\vitor\Desktop\Final1\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe
+C:\Users\vitor\Desktop\Final1\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.pdb
+C:\Users\vitor\Desktop\Final1\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csprojResolveAssemblyReference.cache
+C:\Users\vitor\Desktop\Final1\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Final1\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.exe
+C:\Users\vitor\Desktop\Final1\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.pdb
+C:\Users\vitor\Desktop\ELITE SOFTWARES\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe.config
+C:\Users\vitor\Desktop\ELITE SOFTWARES\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe
+C:\Users\vitor\Desktop\ELITE SOFTWARES\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.pdb
+C:\Users\vitor\Desktop\ELITE SOFTWARES\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csprojResolveAssemblyReference.cache
+C:\Users\vitor\Desktop\ELITE SOFTWARES\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\ELITE SOFTWARES\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.exe
+C:\Users\vitor\Desktop\ELITE SOFTWARES\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.pdb
+E:\! - HD-ALL\CURSOS\DS\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe.config
+E:\! - HD-ALL\CURSOS\DS\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe
+E:\! - HD-ALL\CURSOS\DS\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.pdb
+E:\! - HD-ALL\CURSOS\DS\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csprojAssemblyReference.cache
+E:\! - HD-ALL\CURSOS\DS\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csproj.CoreCompileInputs.cache
+E:\! - HD-ALL\CURSOS\DS\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.exe
+E:\! - HD-ALL\CURSOS\DS\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.pdb
+E:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe.config
+E:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe
+E:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.pdb
+E:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csprojAssemblyReference.cache
+E:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.exe
+E:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.pdb
+D:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe.config
+D:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.exe
+D:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\bin\Debug\ConsoleLabs.pdb
+D:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csproj.AssemblyReference.cache
+D:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csproj.SuggestedBindingRedirects.cache
+D:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.csproj.CoreCompileInputs.cache
+D:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.exe
+D:\! - HD-ALL\CURSOS\! - ETEC BG - Tec. em Informática\1° MÓDULO - FINALIZADO\SistemaFinalizado\ConsoleLabs\ConsoleLabs\obj\Debug\ConsoleLabs.pdb
